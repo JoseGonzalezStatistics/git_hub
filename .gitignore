@@ -1,0 +1,8 @@
+temp.txt
+.DS_Store
+*.zip
+log/*.log
+assets/videos/
+!assets/videos/tour_*.mp4
+# question: would log/archieve/access.log be ignored? No.
+
