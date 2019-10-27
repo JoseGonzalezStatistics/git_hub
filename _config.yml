@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: Jose Luis Gonzalez
+description: M.S. Statistics
 plugins:
   - jekyll-relative-links
 relative_links:
