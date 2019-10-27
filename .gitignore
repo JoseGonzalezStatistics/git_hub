@@ -1,5 +1,9 @@
-temp2.txt
-temp.txt
+# R files
+.Rhistory
+.sass-cache/
+_site/
+
+# tutorial 
 .DS_Store
 *.zip
 log/*.log
