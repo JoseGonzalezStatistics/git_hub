@@ -1,4 +1,10 @@
-## Assignments
+## Statistical Computing 
+
+### Overview
+
+The covers the following topics: (1) Optimization methods including Newton, Fisher-scoring, secant, quasi-Newton, EM, and iteratively reweighted least squares, (2) combinatorial optimization including simulated annealing and genetic algorithm, (3) Simulation and Monte Carlo integration, (4) Markov chain Monte Carlo, and (5) bootstrapping (if time allows).
+
+### Assignments
 
 [Assignment 1](https://josegonzalezstatistics.github.io/git_hub/Computational/534_HW_1.html) 
 
@@ -24,7 +30,7 @@
 
 [Assignment 8 pt.2](https://josegonzalezstatistics.github.io/git_hub/Computational/534_HW_8_pt2.html)
 
-## Exams
+### Exams
 
 [Exam 1](https://josegonzalezstatistics.github.io/git_hub/Computational/534_Exam_1.html)
 
