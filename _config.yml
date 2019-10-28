@@ -7,8 +7,11 @@ author:
   bio       : M.S. Statistics Porfolio
   location  : Greater Los Angeles Area
   url       : joselgonzalez271@gmail.com
-  linkedin  : jose-gonzalez-0b4961183
-  github    : JoseGonzalezStatistics
+
+
+social-links:
+  linkedin      : jose-gonzalez-0b4961183
+  github        : JoseGonzalezStatistics
 plugins:
   - jekyll-relative-links
 relative_links:
