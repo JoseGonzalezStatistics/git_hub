@@ -1,17 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jose Luis Gonzalez
-description: M.S. Statistics
-logo: assests/img/profile.png
-author: 
-  name      : Jose Luis Gonzalez
-  bio       : M.S. Statistics Porfolio
-  location  : Greater Los Angeles Area
-  url       : joselgonzalez271@gmail.com
-
-
-social-links:
-  linkedin      : jose-gonzalez-0b4961183
-  github        : JoseGonzalezStatistics
+description: M.S. Statistics Portfolio
+logo: assets/img/profile.png
 plugins:
   - jekyll-relative-links
 relative_links:
