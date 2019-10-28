@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Jose Luis Gonzalez
 description: M.S. Statistics
+logo: assests/img/profile.png
 author: 
   name      : Jose Luis Gonzalez
-  avatar    : assests/img/profile.png
   bio       : M.S. Statistics Porfolio
   location  : Greater Los Angeles Area
   url       : joselgonzalez271@gmail.com
