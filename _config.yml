@@ -1,7 +1,9 @@
 theme: jekyll-theme-minimal
 title: Jose Luis Gonzalez
 description: M.S. Statistics
-logo: /assets/img/profile.png
+logo: https://github.com/JoseGonzalezStatistics/git_hub/assests/img/profile.png
+owner:
+  linkedin: jose-gonzalez-0b4961183
 plugins:
   - jekyll-relative-links
 relative_links:
